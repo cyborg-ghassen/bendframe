@@ -8,6 +8,9 @@ After developing a nice User interface, our next goal is to scratch code snippet
 * Django (Python based) 
 * Laravel (PHP) 
 * Ruby on rails (Ruby) 
+* NodeJS (JavaScript) 
+
+
 
 ## :pushpin: How to contribute? <br />
 You can: <br />
